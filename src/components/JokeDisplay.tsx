@@ -40,9 +40,9 @@ const JokeDisplay: React.FC = () => {
                         <p>{joke}</p>
                     </div>
                 )}
-                <button onClick={handleGenerateJoke}>Generate a joke</button>
+                <button onClick={handleGenerateJoke}>🎲 Crack a New Joke!</button>
                 <button onClick={toggleShowJoke}>
-                    {showJoke ? "Hide the bad joke" : "Show the bad joke"}</button>
+                    {showJoke ? "🙈 Hide the Punchline" : "👀 Show Me the Laughs"}</button>
             </div>
         </>
     )
