@@ -1,6 +1,12 @@
+const JOKE_API_URL = import.meta.env.VITE_JOKE_API_URL;
+
 export const getJoke = async (): Promise<string> => {
 
-    const response = await fetch('https://v2.jokeapi.dev/joke/Any?safe-mode');
+    if (!JOKE_API_URL) {
+        throw new Error('JOKE_API_URL is not defined');
+    }
+
+    const response = await fetch(JOKE_API_URL);
     const data = await response.json();
 
     if (!response.ok) {
