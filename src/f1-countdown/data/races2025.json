@@ -1,65 +1,210 @@
 [
   {
     "round": 1,
-    "raceName": "Australian Grand Prix",
-    "circuitName": "Albert Park",
-    "location": "Melbourne, Australia",
-    "dateTime": "2025-03-16T05:00:00Z"
+    "raceName": "Bahrain Grand Prix",
+    "circuitName": "Bahrain International Circuit",
+    "location": "Sakhir, Bahrain",
+    "dateTime": "2025-03-09T15:00:00Z",
+    "icon": "/f1-counter/icons/bahrain-flag.jpg",
+    "background": "/f1-counter/backgrounds/bahrain-background.avif"
   },
   {
     "round": 2,
     "raceName": "Saudi Arabian Grand Prix",
     "circuitName": "Jeddah Corniche Circuit",
     "location": "Jeddah, Saudi Arabia",
-    "dateTime": "2025-03-23T18:00:00Z"
+    "dateTime": "2025-03-16T18:00:00Z",
+    "icon": "/f1-counter/icons/saudi-arabian-flag.jpg",
+    "background": "/f1-counter/backgrounds/saudi-arabian-background.avif"
   },
   {
     "round": 3,
-    "raceName": "Japanese Grand Prix",
-    "circuitName": "Suzuka International Racing Course",
-    "location": "Suzuka, Japan",
-    "dateTime": "2025-04-06T06:00:00Z"
+    "raceName": "Australian Grand Prix",
+    "circuitName": "Albert Park",
+    "location": "Melbourne, Australia",
+    "dateTime": "2025-03-30T05:00:00Z",
+    "icon": "/f1-counter/icons/australian-flag.jpg",
+    "background": "/f1-counter/backgrounds/australian-background.avif"
   },
   {
     "round": 4,
     "raceName": "Chinese Grand Prix",
     "circuitName": "Shanghai International Circuit",
     "location": "Shanghai, China",
-    "dateTime": "2025-04-13T07:00:00Z"
+    "dateTime": "2025-04-13T07:00:00Z",
+    "icon": "/f1-counter/icons/chinese-flag.jpg",
+    "background": "/f1-counter/backgrounds/chinese-background.avif"
   },
   {
     "round": 5,
     "raceName": "Miami Grand Prix",
     "circuitName": "Miami International Autodrome",
     "location": "Miami, USA",
-    "dateTime": "2025-05-04T19:30:00Z"
+    "dateTime": "2025-05-04T19:30:00Z",
+    "icon": "/f1-counter/icons/usa-flag.jpg",
+    "background": "/f1-counter/backgrounds/miami-background.avif"
   },
   {
     "round": 6,
     "raceName": "Emilia Romagna Grand Prix",
     "circuitName": "Imola",
     "location": "Imola, Italy",
-    "dateTime": "2025-05-18T13:00:00Z"
+    "dateTime": "2025-05-18T13:00:00Z",
+    "icon": "/f1-counter/icons/italy-flag.jpg",
+    "background": "/f1-counter/backgrounds/imola-background.avif"
   },
   {
     "round": 7,
     "raceName": "Monaco Grand Prix",
     "circuitName": "Circuit de Monaco",
     "location": "Monte Carlo, Monaco",
-    "dateTime": "2025-05-25T13:00:00Z"
+    "dateTime": "2025-05-23T13:30:00Z",
+    "icon": "/f1-counter/icons/monaco-flag.jpg",
+    "background": "/f1-counter/backgrounds/monaco-background.avif"
   },
   {
     "round": 8,
     "raceName": "Spanish Grand Prix",
     "circuitName": "Circuit de Barcelona-Catalunya",
     "location": "Barcelona, Spain",
-    "dateTime": "2025-06-01T13:00:00Z"
+    "dateTime": "2025-05-30T14:30:00Z",
+    "icon": "/f1-counter/icons/spain-flag.jpg",
+    "background": "/f1-counter/backgrounds/spain-background.avif"
   },
   {
     "round": 9,
     "raceName": "Canadian Grand Prix",
     "circuitName": "Circuit Gilles Villeneuve",
     "location": "Montreal, Canada",
-    "dateTime": "2025-06-15T18:00:00Z"
+    "dateTime": "2025-06-13T20:30:00Z",
+    "icon": "/f1-counter/icons/canada-flag.jpg",
+    "background": "/f1-counter/backgrounds/canada-background.avif"
+  },
+  {
+    "round": 10,
+    "raceName": "Austrian Grand Prix",
+    "circuitName": "Red Bull Ring",
+    "location": "Spielberg, Austria",
+    "dateTime": "2025-06-27T14:30:00Z",
+    "icon": "/f1-counter/icons/austria-flag.jpg",
+    "background": "/f1-counter/backgrounds/austria-background.avif"
+  },
+  {
+    "round": 11,
+    "raceName": "British Grand Prix",
+    "circuitName": "Silverstone Circuit",
+    "location": "Silverstone, UK",
+    "dateTime": "2025-07-04T14:30:00Z",
+    "icon": "/f1-counter/icons/uk-flag.jpg",
+    "background": "/f1-counter/backgrounds/uk-background.avif"
+  },
+  {
+    "round": 12,
+    "raceName": "Belgian Grand Prix",
+    "circuitName": "Circuit de Spa-Francorchamps",
+    "location": "Stavelot, Belgium",
+    "dateTime": "2025-07-25T13:30:00Z",
+    "icon": "/f1-counter/icons/belgium-flag.jpg",
+    "background": "/f1-counter/backgrounds/belgium-background.avif"
+  },
+  {
+    "round": 13,
+    "raceName": "Hungarian Grand Prix",
+    "circuitName": "Hungaroring",
+    "location": "Budapest, Hungary",
+    "dateTime": "2025-08-01T14:30:00Z",
+    "icon": "/f1-counter/icons/hungary-flag.jpg",
+    "background": "/f1-counter/backgrounds/hungary-background.avif"
+  },
+
+  {
+    "round": 14,
+    "raceName": "Dutch Grand Prix",
+    "circuitName": "Circuit Zandvoort",
+    "location": "Zandvoort, Netherlands",
+    "dateTime": "2025-08-29T13:30:00Z",
+    "icon": "/f1-counter/icons/netherlands-flag.jpg",
+    "background": "/f1-counter/backgrounds/netherlands-background.avif"
+  },
+  {
+    "round": 15,
+    "raceName": "Italian Grand Prix",
+    "circuitName": "Monza",
+    "location": "Monza, Italy",
+    "dateTime": "2025-09-05T14:30:00Z",
+    "icon": "/f1-counter/icons/italy-flag.jpg",
+    "background": "/f1-counter/backgrounds/italy-background.avif"
+  },
+    {
+    "round": 16,
+    "raceName": "Azerbaijan Grand Prix",
+    "circuitName": "Baku City Circuit",
+    "location": "Baku, Azerbaijan",
+    "dateTime": "2025-09-19T11:30:00Z",
+    "icon": "/f1-counter/icons/azerbaijan-flag.jpg",
+    "background": "/f1-counter/backgrounds/azerbaijan-background.avif"
+  },
+    {
+    "round": 17,
+    "raceName": "Singapore Grand Prix",
+    "circuitName": "Marina Bay Street Circuit",
+    "location": "Singapore, Singapore",
+    "dateTime": "2025-10-03T12:30:00Z",
+    "icon": "/f1-counter/icons/singapore-flag.jpg",
+    "background": "/f1-counter/backgrounds/singapore-background.avif"
+  },
+    {
+    "round": 18,
+    "raceName": "United States Grand Prix",
+    "circuitName": "Circuit of the Americas",
+    "location": "Austin, USA",
+    "dateTime": "2025-10-17T20:30:00Z",
+    "icon": "/f1-counter/icons/usa-flag.jpg",
+    "background": "/f1-counter/backgrounds/usa-background.avif"
+  },
+    {
+    "round": 19,
+    "raceName": "Mexican Grand Prix",
+    "circuitName": "Autódromo Hermanos Rodríguez",
+    "location": "Mexico City, Mexico",
+    "dateTime": "2025-10-24T21:30:00Z",
+    "icon": "/f1-counter/icons/mexico-flag.jpg",
+    "background": "/f1-counter/backgrounds/mexico-background.avif"
+  },
+    {
+    "round": 20,
+    "raceName": "Brazilian Grand Prix",
+    "circuitName": "Interlagos",
+    "location": "São Paulo, Brazil",
+    "dateTime": "2025-11-07T16:30:00Z",
+    "icon": "/f1-counter/icons/brazil-flag.jpg",
+    "background": "/f1-counter/backgrounds/brazil-background.avif"
+  },
+  {
+    "round": 21,
+    "raceName": "Las Vegas Grand Prix",
+    "circuitName": "Las Vegas Strip Circuit",
+    "location": "Las Vegas, USA",
+    "dateTime": "2025-11-21T02:30:00Z",
+    "icon": "/f1-counter/icons/usa-flag.jpg",
+    "background": "/f1-counter/backgrounds/usa-background.avif"
+  },
+  {
+    "round": 22,
+    "raceName": "Qatar Grand Prix",
+    "circuitName": "Losail International Circuit",
+    "location": "Losail, Qatar",
+    "dateTime": "2025-11-28T15:30:00Z",
+    "icon": "/f1-counter/icons/qatar-flag.jpg",
+    "background": "/f1-counter/backgrounds/qatar-background.avif"
+  },
+  {
+    "round": 23,
+    "raceName": "Abu Dhabi Grand Prix",
+    "circuitName": "Yas Marina Circuit",
+    "location": "Abu Dhabi, UAE",
+    "dateTime": "2025-12-05T11:30:00Z",
+    "icon": "/f1-counter/icons/abu-dhabi-flag.jpg",
+    "background": "/f1-counter/backgrounds/abu-dhabi-background.avif"
   }
 ]
