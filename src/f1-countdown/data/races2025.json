@@ -1,0 +1,65 @@
+[
+  {
+    "round": 1,
+    "raceName": "Australian Grand Prix",
+    "circuitName": "Albert Park",
+    "location": "Melbourne, Australia",
+    "dateTime": "2025-03-16T05:00:00Z"
+  },
+  {
+    "round": 2,
+    "raceName": "Saudi Arabian Grand Prix",
+    "circuitName": "Jeddah Corniche Circuit",
+    "location": "Jeddah, Saudi Arabia",
+    "dateTime": "2025-03-23T18:00:00Z"
+  },
+  {
+    "round": 3,
+    "raceName": "Japanese Grand Prix",
+    "circuitName": "Suzuka International Racing Course",
+    "location": "Suzuka, Japan",
+    "dateTime": "2025-04-06T06:00:00Z"
+  },
+  {
+    "round": 4,
+    "raceName": "Chinese Grand Prix",
+    "circuitName": "Shanghai International Circuit",
+    "location": "Shanghai, China",
+    "dateTime": "2025-04-13T07:00:00Z"
+  },
+  {
+    "round": 5,
+    "raceName": "Miami Grand Prix",
+    "circuitName": "Miami International Autodrome",
+    "location": "Miami, USA",
+    "dateTime": "2025-05-04T19:30:00Z"
+  },
+  {
+    "round": 6,
+    "raceName": "Emilia Romagna Grand Prix",
+    "circuitName": "Imola",
+    "location": "Imola, Italy",
+    "dateTime": "2025-05-18T13:00:00Z"
+  },
+  {
+    "round": 7,
+    "raceName": "Monaco Grand Prix",
+    "circuitName": "Circuit de Monaco",
+    "location": "Monte Carlo, Monaco",
+    "dateTime": "2025-05-25T13:00:00Z"
+  },
+  {
+    "round": 8,
+    "raceName": "Spanish Grand Prix",
+    "circuitName": "Circuit de Barcelona-Catalunya",
+    "location": "Barcelona, Spain",
+    "dateTime": "2025-06-01T13:00:00Z"
+  },
+  {
+    "round": 9,
+    "raceName": "Canadian Grand Prix",
+    "circuitName": "Circuit Gilles Villeneuve",
+    "location": "Montreal, Canada",
+    "dateTime": "2025-06-15T18:00:00Z"
+  }
+]
