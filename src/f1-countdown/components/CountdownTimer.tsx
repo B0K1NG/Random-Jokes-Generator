@@ -21,8 +21,7 @@ const CountdownTimer: React.FC = () => {
         const fetchRaceData = async () => {
             try {
                 const raceData = await getNextRace();
-                console.log('Fetched race data:', raceData);
-
+                // console.log('Fetched race data:', raceData);
                 setRaceName(raceData.raceName);
                 setCircuitName(raceData.circuitName);
                 setLocation(raceData.location);
@@ -43,9 +42,6 @@ const CountdownTimer: React.FC = () => {
         });
         return () => clearInterval(interval);
     }, [dateTime]);
-
-
-    
 
     return (
         <div>
