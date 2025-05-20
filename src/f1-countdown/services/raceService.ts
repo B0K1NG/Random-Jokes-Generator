@@ -5,6 +5,8 @@ export interface RaceInfo {
     circuitName: string;
     location: string;
     dateTime: number;
+    raceIcon: string;
+    raceBackground: string;
 }
 
 export const getNextRace = async (): Promise<RaceInfo> => {
@@ -25,5 +27,7 @@ export const getNextRace = async (): Promise<RaceInfo> => {
         circuitName: next.circuitName,
         dateTime: normalizedDate,
         location: next.location,
+        raceIcon: next.icon ?? '',
+        raceBackground: next.background ?? '',
     }
 }
